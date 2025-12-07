@@ -1,0 +1,8 @@
+[package]
+name = "metric_time"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4.42"
+clearscreen = "4.0.2"
