@@ -7,6 +7,7 @@ So alongside the metric system came metric time.
 - 1 metric day = 10 metric hours,
 - 1 metric hour = 100 metric minutes
 - 1 metric minute = 100 metric seconds.
+
 Very decimal and extremely French.
 
 A lot of the new systems of measurment were actually adapted and are still used to this day (although somewhat redefined from the original) such as meters, grams and liters. 
